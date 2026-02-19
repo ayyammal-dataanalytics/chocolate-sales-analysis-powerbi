@@ -39,7 +39,7 @@ The dataset used in this project is an Excel-based chocolate sales dataset creat
 ---
 
 ## 📷 Dashboard Preview
-![Chocolate Sales Dashboard](Chocolate sales dashboard screenshot.png)
+![Chocolate sales dashboard screenshot](Chocolate sales dashboard screenshot.png)
 
 ---
 
