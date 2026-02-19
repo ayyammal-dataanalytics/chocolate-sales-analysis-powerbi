@@ -3,11 +3,7 @@
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard analyzing chocolate sales data to uncover business insights related to revenue, cost, profit, and shipment performance.
 
-The objective of this project is to practice data modeling, DAX calculations, and dashboard design to simulate real-world business analysis scenarios.
-
-
-## 📷 Dashboard Preview
-![Chocolate Sales Dashboard](Chocolate sales dashboard screenshot.png)
+The objective of this project is to practice data modeling, DAX calculations, and dashboard design by simulating real-world business analysis scenarios.
 
 ---
 
@@ -32,7 +28,7 @@ The objective of this project is to practice data modeling, DAX calculations, an
 ## 🛠 Tools & Technologies Used
 - Power BI
 - DAX (Data Analysis Expressions)
-- Excel
+- Microsoft Excel
 - Data Modeling
 
 ---
@@ -42,10 +38,15 @@ The dataset used in this project is an Excel-based chocolate sales dataset creat
 
 ---
 
+## 📷 Dashboard Preview
+![Chocolate Sales Dashboard](Chocolate sales dashboard screenshot.png)
+
+---
+
 ## 🎯 Learning Outcome
-- Improved understanding of DAX calculations
-- Strengthened data visualization skills
-- Gained experience in KPI reporting
+- Improved understanding of DAX measures and calculated columns
+- Strengthened data visualization and storytelling skills
+- Gained hands-on experience in KPI reporting
 - Practiced building interactive business dashboards
 
 ---
