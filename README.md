@@ -7,6 +7,11 @@ The objective of this project is to practice data modeling, DAX calculations, an
 
 ---
 
+## 📷 Dashboard Preview
+![Chocolate sales dashboard screenshot](![Chocolate Sales Dashboard](./Chocolate%20sales%20dashboard%20screenshot.png)
+
+---
+
 ## 📊 Business KPIs
 - Total Sales: $34M
 - Total Cost: $13.52M
@@ -35,11 +40,6 @@ The objective of this project is to practice data modeling, DAX calculations, an
 
 ## 📂 Dataset Information
 The dataset used in this project is an Excel-based chocolate sales dataset created for learning and practice purposes.
-
----
-
-## 📷 Dashboard Preview
-![Chocolate sales dashboard screenshot](Chocolate sales dashboard screenshot.png)
 
 ---
 
