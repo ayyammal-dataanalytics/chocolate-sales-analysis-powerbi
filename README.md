@@ -8,7 +8,7 @@ The objective of this project is to practice data modeling, DAX calculations, an
 ---
 
 ## 📷 Dashboard Preview
-![Chocolate sales dashboard screenshot](![Chocolate Sales Dashboard](./Chocolate%20sales%20dashboard%20screenshot.png)
+![Dashboard](dashboard.png)
 
 ---
 
